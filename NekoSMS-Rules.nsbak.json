@@ -26,7 +26,7 @@
 			},
 			"body": {
 				"mode": "contains",
-				"pattern": "TD|回T退|退订",
+				"pattern": "((^【.*(拒|退|T|购|复|详|回))|((拒|回|复|退|T).*(】|])$))",
 				"case_sensitive": false
 			}
 		},
