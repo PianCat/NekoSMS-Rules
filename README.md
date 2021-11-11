@@ -12,7 +12,7 @@ Some Rules From [Coolapk@miroku](https://www.coolapk.com/feed/11843299?shareKey=
 
 ### How To Use？
 
-[Download the Rules](https://raw.githubusercontent.com/PianCat/NekoSMS-Rules/main/NekoSMS-Rules-FromPianCat.nsbak.json)
+[Download the Rules](https://raw.githubusercontent.com/PianCat/NekoSMS-Rules/main/NekoSMS-Rules.nsbak.json)
 
 ***Use Download Tools or Make a `.nsbak` File and put the strings in .***
 
@@ -32,11 +32,11 @@ Maybe ? If I found some messages cannot be blocked , I will update it.
 
 ### 如何食用？
 
-[下载规则](https://raw.githubusercontent.com/PianCat/NekoSMS-Rules/main/NekoSMS-Rules-FromPianCat.nsbak.json)
+[下载规则](https://raw.githubusercontent.com/PianCat/NekoSMS-Rules/main/NekoSMS-Rules.nsbak.json)
 
 ***使用下载工具或创建一个 `.nsbak` 文件并将规则填写进文件中***
 
-在NekoSMS终导入规则
+在 NekoSMS 终导入规则
 
 ### 规则会持续更新吗？
 
