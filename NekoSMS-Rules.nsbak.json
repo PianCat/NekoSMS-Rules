@@ -21,7 +21,7 @@
 			"action": "block",
 			"sender": {
 				"mode": "regex",
-				"pattern": "106.*",
+				"pattern": "^(106)|(0106).*$",
 				"case_sensitive": false
 			},
 			"body": {
