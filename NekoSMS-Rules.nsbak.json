@@ -20,13 +20,13 @@
 		{
 			"action": "block",
 			"sender": {
-				"mode": "prefix",
-				"pattern": "106",
+				"mode": "regex",
+				"pattern": "106.*",
 				"case_sensitive": false
 			},
 			"body": {
-				"mode": "contains",
-				"pattern": "((^【.*(拒|退|T|购|复|详|回))|((拒|回|复|退|T).*(】|])$))",
+				"mode": "regex",
+				"pattern": "((^【.*(拒|退|T|购|复|详|回))|((拒|回|复|退|T|d).*(】|])$))",
 				"case_sensitive": false
 			}
 		},
