@@ -32,7 +32,7 @@ Maybe ? If I found some messages cannot be blocked , I will update it.
 
 [下载最新规则](https://github.com/PianCat/NekoSMS-Rules/releases)
 
-在 NekoSMS 终导入规则
+在 NekoSMS 中导入规则
 
 ### 规则会持续更新吗？
 
